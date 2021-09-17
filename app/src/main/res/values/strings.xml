@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CustomSpinnerKT</string>
+    <string-array name="country">
+        <item>All Country</item>
+        <item>Turkey</item>
+        <item>Germany</item>
+        <item>Norway</item>
+        <item>Adana</item>
+
+    </string-array>
+
+</resources>
